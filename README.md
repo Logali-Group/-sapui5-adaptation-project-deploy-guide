@@ -230,7 +230,7 @@ builder:
         target:
           destination: S4HANA20
           url: http://s4h22.sap4practice.com:8007
-          client: '800'
+          client: '220'
         app:
           package: Z_ADAPTATION_PROJECT
           transport: WALK900795
