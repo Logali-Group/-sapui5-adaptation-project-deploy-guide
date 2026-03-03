@@ -199,8 +199,8 @@ Si el `lrep` no coincide, los Flex Changes (fragments, controller extensions, ad
 | Placeholder | Dónde obtenerlo | Ejemplo |
 |---|---|---|
 | `<DESTINATION_NAME>` | BTP Cockpit → Destinations (o BAS Settings → Destinations) | `S4HANA22` |
-| `<SYSTEM_URL>` | URL del sistema On-Premise (protocolo + host + puerto) | `http://s4h22.sap4practice.com:8007` |
-| `<CLIENT>` | Mandante SAP (string entre comillas simples) | `'800'` |
+| `<SYSTEM_URL>` | URL del sistema On-Premise (protocolo + host + puerto) | `http://s4h71.sap4practice.com:8071` |
+| `<CLIENT>` | Mandante SAP (string entre comillas simples) | `'2020'` |
 | `<ABAP_PACKAGE>` | Paquete Z creado en SE80 o ADT | `Z_ADAPTATION_PROJECT` |
 | `<TRANSPORT_REQUEST>` | Orden de transporte Workbench (SE09/SE10) | `NPLK900001` |
 
